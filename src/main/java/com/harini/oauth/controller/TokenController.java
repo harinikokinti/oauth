@@ -1,7 +1,9 @@
 package com.harini.oauth.controller;
 /*
 
-ORBITZ.com is a online booking system
+ORBITZ.com is a global leading travel company that uses innovative technology to enable travelers to search, plan and book
+range of travel products and services including airline tickets, hotels, car rentals, cruises, and vacation packages.
+
 Here I worked in User profile, where the user details are stored
 Worked in User authentication and Authorization
 Authorization is done by setting the tokens and validating them to provide the user state until he/she gets logged out.
